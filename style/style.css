@@ -13,6 +13,7 @@ header{
     color: white;
     padding: 10px;
 }
+
 nav{
     display: flex;
     align-items: center;
@@ -39,6 +40,13 @@ nav a{
     
     
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
 
 
 
@@ -109,7 +117,7 @@ nav a{
     
 }
 
-#vendedores{
+.vendedores{
     height: 250px;
     display: flex;
     align-items: center;
@@ -118,7 +126,7 @@ nav a{
     
 }
 
-#vendedores h2{
+.vendedores h2{
     margin: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: red;
@@ -128,12 +136,11 @@ nav a{
 
 
 
-#s2{
-
+.s2{
     background-color: brown;
 }
 
-#s2{
+.s2{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
