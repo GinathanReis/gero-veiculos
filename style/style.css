@@ -28,11 +28,11 @@ nav a{
 }
 
 .s1{
+    background-image: url(/imagens/CARROS/fundo-estrad2a.png);
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    background-image: url(/imagens/fundo-estrad2a.png);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
