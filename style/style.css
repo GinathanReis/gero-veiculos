@@ -28,7 +28,6 @@ nav a{
 }
 
 .s1{
-    background-image: url(/imagens/CARROS/fundo-estrad2a.png);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -37,7 +36,8 @@ nav a{
     background-repeat: no-repeat;
     background-attachment: fixed;
     box-shadow: inset 1px 1px 10px 10px  rgba(0, 0, 0, 0.123);
-       
+    background-image: url(/imagens/fundos2.png);
+    background-size: cover;
 }
 
 a{
